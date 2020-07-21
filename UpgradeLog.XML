@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EQUATOR PROGRAM">
+</Property><Property Name="Solution File" Value="D:\VB BACKUP\EQUATOR PROGRAM\EQUATOR PROGRAM.sln">
+</Property><Property Name="User Options File" Value="D:\VB BACKUP\EQUATOR PROGRAM\EQUATOR PROGRAM.suo">
+</Property><Property Name="Date" Value="20 June 2019">
+</Property><Property Name="Time" Value="20:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EQUATOR PROGRAM.sln" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EQUATOR PROGRAM.suo" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM.suo">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.vbproj" Description="Project file successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\EQUATOR PROGRAM.vbproj">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\EQUATOR PROGRAM.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\EQUATOR PROGRAM.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\Form1.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\Form1.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\Form1.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOADING FORM.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOADING FORM.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOADING FORM.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOADING FORM.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOGIN FORM.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOGIN FORM.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOGIN FORM.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOGIN FORM.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Application.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF BUTTON.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF BUTTON.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF BUTTON.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF BUTTON.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\SPECIAL CHARACTER.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\SPECIAL CHARACTER.Designer.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\SPECIAL CHARACTER.vb" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\SPECIAL CHARACTER.vb">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Application.myapp" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Settings.settings" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\EQUATOR PROGRAM.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\Form1.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\Form1.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOADING FORM.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOADING FORM.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\LOGIN FORM.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\LOGIN FORM.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\My Project\Resources.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF BUTTON.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF BUTTON.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\ON AND OFF.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\ON AND OFF.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\SPECIAL CHARACTER.resx" Description="File successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\EQUATOR PROGRAM\SPECIAL CHARACTER.resx">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IsaacApp.vdproj" Source="IsaacApp\IsaacApp.vdproj" Description="Project file successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\IsaacApp\IsaacApp.vdproj">
+</Event><Event ErrorLevel="0" Project="IsaacApps.vdproj" Source="IsaacApps\IsaacApps.vdproj" Description="Project file successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\IsaacApps\IsaacApps.vdproj">
+</Event><Event ErrorLevel="0" Project="CoveApp.vdproj" Source="CoveApp\CoveApp.vdproj" Description="Project file successfully backed up as D:\VB BACKUP\EQUATOR PROGRAM\Backup\CoveApp\CoveApp.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="EQUATOR PROGRAM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EQUATOR PROGRAM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EQUATOR PROGRAM" Source="EQUATOR PROGRAM\EQUATOR PROGRAM.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
